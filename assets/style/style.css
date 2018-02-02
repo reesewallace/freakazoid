@@ -1,6 +1,21 @@
-.banner {width:100%; }
-.header {font-family: 'Amatic SC', cursive; font-size: 3em; margin: 5px 0}
-.listhead {font-family: 'Amatic SC', cursive; font-size: 2em; margin: 5px 0}
+
+.banner {width:100%;}
+.jumbotron h1 {font-family: 'Amatic SC', cursive; font-size: 5em; margin: 5px 0; text-align: center;}
+.jumbotron {background-color: rgba(120,30,30,.4);}
+.header {font-family: 'Amatic SC', cursive; font-size: 3em; margin: 5px 0;}
+.listhead {font-family: 'Amatic SC', cursive; font-size: 2em; margin: 5px 0;}
 .main {font-family: 'Josefin Sans', sans-serif;}
 li {font-family: 'Josefin Sans', sans-serif;}
-body {max-width: 1000px; margin:auto;}
+.infobutton {color:#fff; text-decoration: none;}
+.fa-bomb {margin-right: 2px;}
+.modal-header{text-align:left;}
+.second{margin-top: 10px;}
+@media screen and (max-width: 767px) {
+
+
+}
+
+@media screen and (min-width:768px) and (max-width:991px){
+
+
+}
